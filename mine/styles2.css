@@ -1,0 +1,134 @@
+body{
+background-color:powderblue;
+margin:0;
+text-align:center;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+color:crimson;
+font-size:5.625rem;
+font-family: 'Sacramento', cursive;
+margin-top:0 ;
+}
+
+h2{
+color:crimson;
+font-size:2.5rem;
+font-family: 'Merriweather Sans', sans-serif;
+}
+
+h3{
+color:crimson;
+font-family: 'Merriweather Sans', sans-serif;
+}
+
+p{
+line-height:2;
+}
+
+.top{
+background-color:cornsilk;
+}
+
+.middle-container{
+background-color:peachpuff;
+
+
+}
+.bottom-container{
+background-color:pink;
+padding:50px 0px 20px;
+}
+
+.flower{
+height:200px;
+width:1000px;
+}
+
+.bottomcloud{
+position:absolute;
+height:100px;
+width:100px;
+top:200px;
+left:150px;
+}
+
+.topcloud{
+position:relative;
+height:100px;
+width:100px;
+top:50px;
+left:300px;
+}
+
+.profilepic{
+margin-top:50px;
+height:200px;
+width:200px;
+}
+
+.bestskillimg{
+margin-top:50px;
+float:right;
+width:25%;
+margin-left:30px;
+
+}
+
+.skill-row{
+width:50%;
+margin:100px auto 100px auto;
+text-align:left;
+}
+
+.skillimage{
+float:left;
+width:25%;
+margin-right:30px;
+}
+
+hr{
+	border-style: none;
+    border-bottom-style: dotted;
+    border-color: darkred;
+    border-width: 5px;
+    width: 5%;
+margin:100px auto 100px auto;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #f29c93;
+	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);
+	background-color:#fe1a00;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #ce0100 5%, #fe1a00 100%);
+	background-color:#ce0100;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+color:crimson;
+font-family: 'Montserrat', sans-serif;
+margin:10px 20px;
+text-decoration:none;
+}
+
+a:hover{
+color:black;
+}
+
